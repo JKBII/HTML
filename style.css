@@ -1,0 +1,50 @@
+
+p{
+    color: blue;
+    font-size: 20px;
+}
+body{
+    background-color: green
+}
+table{
+    size: 10px;
+        width: 60%;
+        margin: auto;
+        border: 2px solid black;
+}
+tr td{
+    border: 1px solid black
+}
+
+}
+</style>
+</head>
+<body>
+<h2 style="color: red">Welcome to Techcamp Kenya</h2>
+<h3 style="justify-content: center">Welcome to TechcampKenya</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aperiam culpa amet nemo nulla alias accusantium veniam sed error iusto blanditiis quia recusandae, omnis, minima repellendus qui deserunt magnam earum!</p>
+<p style="color: royalblue;font-size: 30px">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, pariatur praesentium ipsum ullam possimus dolorum alias, corrupti quisquam culpa obcaecati eveniet error fugiat architecto facilis iusto cumque, impedit consequuntur quis.
+</p>
+<table>
+<tr>
+    <th>Likes</th>
+    <th>Dislikes</th>
+
+</tr>
+    <td>Coding</td>
+    <td>Logic</td>
+<tr></tr>
+    <td>Phones</td>
+    <td>Men</td>
+</table>
+<div class="container">
+<p class="paragraph">This is my div content</p>
+</body>
+</html>
+
+.container{
+    widows: 80%;
+    margin:auto;
+    height
+}
+
